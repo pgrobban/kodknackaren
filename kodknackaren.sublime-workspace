@@ -1,0 +1,2171 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"måsvi",
+				"måsvingeklamrarna"
+			],
+			[
+				"celsius",
+				"celsiusToFahrenheit"
+			],
+			[
+				"printLyrics",
+				"printLyricsTwice"
+			],
+			[
+				"måsving",
+				"måsvingeklamrar"
+			],
+			[
+				"user",
+				"userDefinedVariableValuesFromLatestRun"
+			],
+			[
+				"getus",
+				"getUserVariableIndexFromLatestRun"
+			],
+			[
+				"var",
+				"variableName"
+			],
+			[
+				"va",
+				"variableName"
+			],
+			[
+				"u",
+				"userDefinedVariablesFromLatestRun"
+			],
+			[
+				"use",
+				"userDefinedVariableValues"
+			],
+			[
+				"variabel",
+				"variableString"
+			],
+			[
+				"userDefinedVariables",
+				"userDefinedVariablesFromLatestRun"
+			],
+			[
+				"userD",
+				"userDefinedVariables"
+			],
+			[
+				"data",
+				"dataFromLatestRun"
+			],
+			[
+				"hin",
+				"hintCost"
+			],
+			[
+				"set",
+				"setStatusText"
+			],
+			[
+				"curre",
+				"currentExerciseWorth"
+			],
+			[
+				"num",
+				"numberOfBoughtHints"
+			],
+			[
+				"no",
+				"NO_OUTPUT_MESSAGE"
+			],
+			[
+				"nu",
+				"numberOfBoughtHints"
+			],
+			[
+				"numb",
+				"numberOfHints"
+			],
+			[
+				"number",
+				"numberOfBoughtHints"
+			],
+			[
+				"ex",
+				"exerciseJSON"
+			],
+			[
+				"create",
+				"createRequirementsTable"
+			],
+			[
+				"section",
+				"sectionController"
+			],
+			[
+				"canva",
+				"canvasJQuery"
+			],
+			[
+				"canv",
+				"canvas-tab"
+			],
+			[
+				"less",
+				"lessonJSON"
+			],
+			[
+				"lesson",
+				"lessonID"
+			],
+			[
+				"sectio",
+				"sectionController"
+			],
+			[
+				"run-",
+				"run-code-button"
+			],
+			[
+				"sectionWit",
+				"sectionNrWithLatestID"
+			],
+			[
+				"sectionN",
+				"sectionNrWithLatestID"
+			],
+			[
+				"pro",
+				"progressBarDivClasses"
+			],
+			[
+				"previous",
+				"previousLesson"
+			],
+			[
+				"refr",
+				"refreshProgress"
+			],
+			[
+				"hand",
+				"handleNewSection"
+			],
+			[
+				"sho",
+				"showNewSection"
+			],
+			[
+				"setProgress",
+				"setProgressDivs"
+			],
+			[
+				"next",
+				"nextLesson"
+			],
+			[
+				"before",
+				"before"
+			],
+			[
+				"ou",
+				"outputFromLatestRun"
+			],
+			[
+				"komma",
+				"kommatecken"
+			],
+			[
+				"exer",
+				"exerciseID"
+			],
+			[
+				"User",
+				"UserController"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"le",
+				"lessonID"
+			],
+			[
+				"l",
+				"lessonID"
+			],
+			[
+				"lesso",
+				"lessonID"
+			],
+			[
+				"atta",
+				"attachOrUpdate"
+			],
+			[
+				"perc",
+				"percentComplete"
+			],
+			[
+				"la",
+				"latestSectionID"
+			],
+			[
+				"progre",
+				"progressPercent"
+			],
+			[
+				"programme",
+				"programmeringsspråk"
+			],
+			[
+				"cod",
+				"codeWithMessagesAndExit"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"program",
+				"programmeringsspråk"
+			],
+			[
+				"pr",
+				"progressBarDivClasses"
+			],
+			[
+				"new",
+				"newSectionID"
+			],
+			[
+				"cook",
+				"cookie"
+			],
+			[
+				"is",
+				"isSectionExercise"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"sect",
+				"sectionID"
+			],
+			[
+				"exerc",
+				"exerciseID"
+			],
+			[
+				"future",
+				"future-exercise"
+			],
+			[
+				"points",
+				"pointsToAdd"
+			],
+			[
+				"curr",
+				"currentExerciseWorth"
+			],
+			[
+				"has",
+				"hasUserPassedExercise"
+			],
+			[
+				"exe",
+				"exerciseJSON"
+			],
+			[
+				"numbe",
+				"numberOfExercisesInLesson"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"curren",
+				"currentExerciseWorth"
+			],
+			[
+				"grade",
+				"gradeCode"
+			],
+			[
+				"poi",
+				"pointsForCompletion"
+			],
+			[
+				"find",
+				"findSectionWithID"
+			],
+			[
+				"codeRun",
+				"codeRunnerController"
+			],
+			[
+				"nex",
+				"nextSectionToRunButton"
+			],
+			[
+				"compl",
+				"completedExercises"
+			],
+			[
+				"knacke",
+				"knacke-big"
+			],
+			[
+				"secti",
+				"sectionID"
+			],
+			[
+				"sec",
+				"sectionID"
+			],
+			[
+				"stopC",
+				"stopCodeSignal"
+			],
+			[
+				"stop",
+				"stopCodeSignal"
+			],
+			[
+				"COD",
+				"CODE_RUN_SUCCESS"
+			],
+			[
+				"CODE",
+				"CODE_RUN_ERROR"
+			],
+			[
+				"edit",
+				"editorController"
+			],
+			[
+				"blo",
+				"blobURL"
+			],
+			[
+				"codeWith",
+				"codeWithPrints"
+			],
+			[
+				"codeWi",
+				"codeWithPrints"
+			],
+			[
+				"knac",
+				"knacke-big"
+			],
+			[
+				"pre",
+				"previous-section-button"
+			],
+			[
+				"exerci",
+				"exerciseID"
+			],
+			[
+				"previo",
+				"previousSection"
+			],
+			[
+				"owl",
+				"owlCarousel"
+			],
+			[
+				"com",
+				"completedExercises"
+			],
+			[
+				"ca",
+				"calculateAndSetProgressPercent"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"progressBar",
+				"progressBarChunkSize"
+			],
+			[
+				"current",
+				"currentSection"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"se",
+				"sectionDiv"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"marig",
+				"margin-left"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"session",
+				"sessionID"
+			],
+			[
+				"player",
+				"playerAlive"
+			],
+			[
+				"sessi",
+				"sessionID"
+			],
+			[
+				"get_def",
+				"get_defined_vars"
+			],
+			[
+				"sync",
+				"syncTime"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"Dat",
+				"DateTime"
+			],
+			[
+				"ne",
+				"nextSync"
+			],
+			[
+				"kill",
+				"killerClue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/scripts/kodknackaren/usercontroller.js",
+			"settings":
+			{
+				"buffer_size": 2671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/migrations/2014_03_13_145725_create-users-lessons-status-table.php",
+			"settings":
+			{
+				"buffer_size": 797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/migrations/2014_03_18_192152_create_exercise_requirements_table.php",
+			"settings":
+			{
+				"buffer_size": 713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/scripts/kodknackaren/exercisecontroller.js",
+			"settings":
+			{
+				"buffer_size": 8330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/main.blade.php",
+			"settings":
+			{
+				"buffer_size": 3206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 2340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/seeds/ExerciseTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 2761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/ExerciseRequirement.php",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/migrations/2014_03_03_203951_create_sections_table.php",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/seeds/ExerciseHintsTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 4026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/migrations/2014_03_05_125152_create-hints-table.php",
+			"settings":
+			{
+				"buffer_size": 593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/scripts/kodknackaren/coderunnercontroller.js",
+			"settings":
+			{
+				"buffer_size": 7545,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 2329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/ExerciseController.php",
+			"settings":
+			{
+				"buffer_size": 393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/CourseController.php",
+			"settings":
+			{
+				"buffer_size": 312,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/LarController.php",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 2090,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "app/database/migrations/2014_03_13_123256_create-users-table.php",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/User.php",
+			"settings":
+			{
+				"buffer_size": 1201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/Lesson.php",
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/SectionController.php",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/Exercise.php",
+			"settings":
+			{
+				"buffer_size": 735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/Hint.php",
+			"settings":
+			{
+				"buffer_size": 207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/Section.php",
+			"settings":
+			{
+				"buffer_size": 379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/lar.blade.php",
+			"settings":
+			{
+				"buffer_size": 10045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "function EditorController(editor)\n{\n	var outer = this;\n	this.editor = editor;\n\n	this.editor.setTheme(\"ace/theme/xcode\");\n	this.editor.getSession().setMode(\"ace/mode/javascript\");\n	this.editor.resize();\n\n	this.searchBoxStatus = 0; // 0 = hidden, 1 = search, 2 = replace\n\n	this.copiedText = \"\";\n\n\n\n	// quick fix to remove stuck tooltips on clicks\n	$(\"button\").click(function() { $(\".tipsy\").remove(); } );\n	// force focus on editor except when notepad is open\n	$(\"body\").click(function(){\n	    if (!$(\"#notepad\").is(\":focus\")) {\n	        $(\".ace_text-input\").focus();\n	    }\n	});\n\n\n\n	// returns true if the code editor has errors\n	this.codeHasErrors = function()\n	{\n		var annot = editor.getSession().getAnnotations();\n	    if (annot.length > 0) {\n	    	for (k in annot) {\n	    		if (annot[k][\"type\"] == \"error\") {\n	    			$(\"#run-code-button\").prop('disabled', true);\n	    			return true;\n	    		}\n	    	}\n	    }\n	    return false;\n	}\n\n\n	// disable run button on errors\n	editor.getSession().on(\"changeAnnotation\", function(){\n\n	    if (outer.codeHasErrors())\n	    	$(\"#run-code-button\").prop('disabled', true);\n	    else {\n	    	$(\"#run-code-button\").prop('disabled', false);\n	    }\n\n	});\n\n\n	/* Bind shortcuts and actions to buttons */\n			// initial setup to handle focus on iput fields\n	Mousetrap.stopCallback = function () { return false; }\n\n	function bindAction(shortcut, button, fn) {\n		Mousetrap.bind(shortcut, function(e) {\n			button.addClass(\"button-activated\");\n			setTimeout(function() {button.removeClass(\"button-activated\")}, 250);\n		    fn();\n		    return false; //stop browser default actions\n		});\n		button.click(function() {\n			fn();\n		});\n	}\n\n	bindAction(\"mod+enter\", $(\"#run-code-button\"), codeRunnerController.runCode);\n	bindAction(\"mod+shift+enter\", $(\"#stop-code-button\"), codeRunnerController.stopCode);\n	bindAction(\"mod+c\", $(\"#copy-button\"), copy);\n	bindAction(\"mod+x\", $(\"#cut-button\"), cut);\n	bindAction(\"mod+v\", $(\"#paste-button\"), paste);\n	bindAction(\"mod+z\", $(\"#undo-button\"), undo);\n	bindAction(\"[ctrl+y], [cmd+shift+z]\", $(\"#redo-button\"), redo);\n	bindAction(\"mod+f\", $(\"#search-button\"), search);\n	bindAction(\"mod+f+f\", $(\"#replace-button\"), replace);\n	bindAction(\"mod+m\", $(\"#memo-button\"), openMemo);\n	bindAction(\"mod+s\", $(\"#save-button\"), saveCode);\n	bindAction(\"\", $(\"#trash-button\"), resetCode);\n	\n\n\n\n	function cut() {\n		var range = editor.getSelectionRange();\n        editor._emit(\"cut\", range);\n\n        if (!editor.selection.isEmpty()) {\n        	outer.copiedText = editor.session.getTextRange(editor.getSelectionRange());\n			$(\"#paste-button\").prop(\"disabled\", false);\n\n            editor.session.remove(range);\n            editor.clearSelection();\n        }\n	}\n\n	function copy() {\n		var range = editor.getSelectionRange();\n        editor._emit(\"copy\", range);\n\n        if (!editor.selection.isEmpty()) {\n        	outer.copiedText = editor.session.getTextRange(editor.getSelectionRange());\n			$(\"#paste-button\").prop(\"disabled\", false);\n        }\n	}\n\n\n	function paste() {\n		editor.insert(outer.copiedText);\n		 $(\".ace_text-input\").focus();\n	}\n\n\n\n	function saveCode() {\n		var code = editor.getValue();\n	    $.post(\"/saver\", { data: code }).done(function() { window.location.assign(\"/saver\") });\n	}\n\n	function undo() {\n		var um = editor.getSession().getUndoManager();\n		um.undo();\n		$(\"#redo-button\").prop({'disabled': false});\n\n		if (!um.hasUndo())\n		{\n			$(\"#undo-button\").prop({'disabled': true});\n		}\n	}\n\n	function redo() {\n		var um = editor.getSession().getUndoManager();\n		um.redo();\n		$(\"#undo-button\").prop({'disabled': false});\n\n		if (!um.hasRedo())\n		{\n			$(\"#redo-button\").prop({'disabled': true});\n		}\n	}\n\n	function search() {\n		if (this.searchBoxStatus == 1)\n		{\n			editor.searchBox.hide();\n			this.searchBoxStatus = 0;\n		}\n		else\n		{\n			editor.execCommand(\"find\");\n			this.searchBoxStatus = 1;\n		}\n	}\n	function replace() {\n		if (this.searchBoxStatus == 2)\n		{\n			editor.searchBox.hide();\n			this.searchBoxStatus = 0;\n		}\n		else\n		{\n			editor.execCommand(\"replace\");\n			this.searchBoxStatus = 2;\n		}	\n	}\n\n\n	function openMemo() {\n		$.colorbox({inline:true, width:\"50%\", height: \"50%\", close:\"stäng\", href: $(\"#memo-div\"),   \n			onClosed: function() {\n                 $('#memo-div').hide();\n                 editor.focus();\n            },\n            onOpen: function() {\n                 $('#memo-div').show();\n            },\n            onComplete: function() {\n                 $(\"#notepad\").focus();\n            }\n           }); \n	}\n\n	function resetCode() {\n		editor.setValue(sectionController.getDefaultCode());\n	}\n\n\n\n\n	/*\n	// listen to changes in text to enable undo button\n	editor.getSession().on('change', function(e) {\n	    // e.type, etc\n	    $(\"#undo-button\").prop({'disabled': false});\n	});\n	*/\n	$(\"#undo-button\").prop({'disabled': false});\n\n\n\n	// listen to selection changes \n	editor.getSession().selection.on('changeSelection', function(e) {\n		var selectedLength = editor.session.getTextRange(editor.getSelectionRange()).length;\n		if (selectedLength > 0) {\n			$(\"#copy-button\").prop('disabled', false);\n			$(\"#cut-button\").prop('disabled', false);\n		}\n		else {\n			$(\"#copy-button\").prop('disabled', true);\n			$(\"#cut-button\").prop('disabled', true);\n		}\n	});\n\n}\n",
+			"file": "public/scripts/kodknackaren/editorcontroller.js",
+			"file_size": 5307,
+			"file_write_time": 130416218290000000,
+			"settings":
+			{
+				"buffer_size": 5226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/seeds/SectionTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 121163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/screen.css",
+			"settings":
+			{
+				"buffer_size": 21109,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/css/bootstrap-robban.css",
+			"settings":
+			{
+				"buffer_size": 6059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/seeds/DatabaseSeeder.php",
+			"settings":
+			{
+				"buffer_size": 2276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/database/seeds/ExerciseRequirementsTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 16704,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/kodknackaren/sectioncontroller.js",
+		"/Users/pgrobban/Documents/htdocs/kk-new/templated-linear/index.html",
+		"/Users/pgrobban/Library/Application Support/vcmi/config/settings.json",
+		"/Users/pgrobban/appForm_2014-06-09.dat",
+		"/Users/pgrobban/Public/The.Simpsons.S25E20.720p.HDTV.X264-DIMENSION.srt",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_03_193134_create_courses_table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/Course.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/controllers/SectionController.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/symfony/process/Symfony/Component/Process/Exception/LogicException.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/symfony/browser-kit/Symfony/Component/BrowserKit/Tests/HistoryTest.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/predis/predis/tests/Predis/Command/HashIncrementByTest.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/laravel/framework/src/Illuminate/Hashing/HasherInterface.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/docs/source/en/screencasts.xml",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/nikic/php-parser/test/code/parser/stmt/function/typeHints.test",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/laravel/framework/src/Illuminate/Database/Seeder.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/symfony/css-selector/Symfony/Component/CssSelector/Exception/SyntaxErrorException.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/Requirement.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/readme.md",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/ExerciseRequirement.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/ace/ext-emmet.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/composer.json",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/config/database.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/definition_astext.txt",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/config/mail.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/ace/mode-abap.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/special_route_name.yml",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/phpseclib/phpseclib/phpseclib/Crypt/Random.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/composer/autoload_real.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/nikic/php-parser/lib/PHPParser/NodeVisitorAbstract.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/config/view.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/seeds/untitled.html",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/psr/log/Psr/Log/LoggerAwareInterface.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/predis/predis/lib/Predis/Command/SetCardinality.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/predis/predis/lib/Predis/ServerException.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_04_08_130242_create_users_completed_exercises_table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/kodknackaren/usercontroller.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_18_192152_create_exercise_requirements_table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_04_08_130152_create_users_exercises_completed_table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_13_124855_create-users-exercises-completed-table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/jquery.countTo",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/laravel/framework/src/Illuminate/Auth/Reminders/ReminderRepositoryInterface.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/symfony/routing/Symfony/Component/Routing/Exception/ResourceNotFoundException.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/predis/predis/tests/Predis/Cluster/Distribution/KetamaPureRingTest.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/predis/predis/lib/Predis/Cluster/Distribution/KetamaPureRing.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/predis/predis/lib/Predis/Collection/Iterator/CursorBasedIterator.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/ace/snippets/curly.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/ClosureUse.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/views/main.blade.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/Exercise.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/Lesson.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_03_203951_create_sections_table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/css/screen.css",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/kodknackaren/tutorial.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/seeds/ExerciseRequirementsTableSeeder.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_05_094723_create_exercises_table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/seeds/ExerciseTableSeeder.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/Section.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/kodknackaren.sublime-project",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/seeds/SectionTableSeeder.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/seeds/DatabaseSeeder.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/filters.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/controllers/LarController.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/views/main.blade",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/views/lar.blade.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/views/lar.html",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_05_125152_create-hints-table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_03_193645_create_lessons_table.php",
+		"/Users/pgrobban/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/controllers/CourseController.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/controllers/DatabaseController",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/controllers/SectionController",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/Courses.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/models/Database.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/database/migrations/2014_03_05_094333_create_hints_table.php",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/views/editor.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/tutorial.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/css/default.css",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/css/fontello.css",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/menu/demo/test.html",
+		"/Users/pgrobban/Documents/htdocs/test/hello.py",
+		"/Users/pgrobban/Documents/htdocs/test/test.php",
+		"/Users/pgrobban/Documents/htdocs/test/test.html",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/menu/demo/collapsed/collapsed.js",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/public/scripts/menu/test.html",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/controllers/HomeController.php",
+		"/Users/pgrobban/Documents/htdocs/effeminate/lar.html",
+		"/Users/pgrobban/Documents/htdocs/effeminate/default.css",
+		"/Users/pgrobban/Documents/htdocs/kodknackaren/app/views/layout.blade.php",
+		"/Users/pgrobban/Documents/htdocs/effeminate/index.html",
+		"/Users/pgrobban/Desktop/Hotaru.the.Movie.Its.Only.a.Little.Light.in.My.Life.2012.BluRay.1080p.DTS.x264-CHD.srt",
+		"/Users/pgrobban/Public/The IT Crowd - Season 1/The.IT.Crowd.S01E01.srt",
+		"/Users/pgrobban/Documents/htdocs/projectwebsite/default.css",
+		"/Users/pgrobban/Documents/htdocs/projectwebsite/downloads.html",
+		"/Users/pgrobban/Documents/htdocs/projectwebsite/description.html",
+		"/Users/pgrobban/Documents/htdocs/projectwebsite/index.html",
+		"/Users/pgrobban/Documents/htdocs/project/test,html",
+		"/Users/pgrobban/Desktop/projecttest/untitled.html",
+		"/Users/pgrobban/Documents/htdocs/appserver/index.php",
+		"/Users/pgrobban/Desktop/How I Met Your Mother - Season 2/How.I.Met.Your.Mother.S02E14.720p.HDTV.x264-CTU.srt",
+		"/Users/pgrobban/Desktop/test.html",
+		"/Volumes/Zoidberg/Halvvägs till himlen - S01E07/Halvvägs till himlen - S01E07.srt",
+		"/Users/pgrobban/Dropbox/projecttest/main.html",
+		"/Users/pgrobban/Desktop/index.html",
+		"/Users/pgrobban/Desktop/111813.How_I_Met_Your_Mother_S01_DVDRip_XviD_TOPAZ/How.I.Met.Your.Mother.1x01.DVDRip.XviD-TOPAZ.Chs.srt",
+		"/Users/pgrobban/Desktop/project/test,html",
+		"/Users/pgrobban/Desktop/How I Met Your Mother - Season 01 (HDTV)/www.AllSubs.org_how-i-met-your-mother-2005-2-3-9-7-fps-31-4-fov-s02e12_47094/how.i.met.your.mother.s01e05.hdtv.xvid-tcm.srt",
+		"/Users/pgrobban/Desktop/How I Met Your Mother - Season 01 (HDTV)/26369.how_i_met_your_mother_s01e05_hdtv_xvid_tcm/how.i.met.your.mother.s01e05.hdtv.xvid-tcm.gb.srt",
+		"/Users/pgrobban/Desktop/How I Met Your Mother - Season 01 (HDTV)/How I Met Your Mother - 1x04 - Return Of The Shirt - HDTV_XviD-FoV.sub",
+		"/Users/pgrobban/Desktop/How I Met Your Mother S01 720p HDTV x264 DD5.1/How I Met Your Mother - 1x01 - Pilot - PROPER.HDTV.XviD-FQM.srt",
+		"/Users/pgrobban/Desktop/How I Met Your Mother S01 720p HDTV x264 DD5.1/how.i.met.your.mother.s01e01.hdtv.xvid-fqm.gb.srt",
+		"/Users/pgrobban/Desktop/How I Met Your Mother S01 720p HDTV x264 DD5.1/how.i.met.your.mother.s01e01.hdtv.xvid-fqm.big5.srt",
+		"/Users/pgrobban/Desktop/How I Met Your Mother S01 720p HDTV x264 DD5.1/24663.09_21_05_how_i_met_your_mother_S01E01_CnEn_SUB_fqm_COSL_YTET/read me.txt",
+		"/Users/pgrobban/Nihonjin_no_Shiranai_Nihongo_enjp/enjp-Nihonjin no Shiranai Nihongo ep01 (704x396 XviD).ass",
+		"/Users/pgrobban/Desktop/test.py",
+		"/Volumes/Zoidberg/VMware.Fusion.v6.0.Professional.MacOSX.Incl.Keymaker-EMBRACE/embrace.nfo",
+		"/Users/pgrobban/Documents/skola/datastrukt/U4.dfs.java",
+		"/Users/pgrobban/Documents/htdocs/japanska/views/templates/lessons.twig",
+		"/Users/pgrobban/Documents/htdocs/japanska/views/js/exercises.js",
+		"/Users/pgrobban/Desktop/Anger.Management.2003.720p.BluRay.DTS.x264-ESiR.chs.srt",
+		"/Users/pgrobban/Desktop/50 First Dates/50.First.Dates.2004.720p.BluRay.DTS.x264-CtrlHD.chs.srt",
+		"/Users/pgrobban/Desktop/50.First.Dates.2004.720p.BluRay.DTS.x264-CtrlHD.chs.srt",
+		"/Users/pgrobban/Documents/htdocs/japanska/downloads/pdf/hiragana.pdf",
+		"/Users/pgrobban/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<a href",
+			"lesson",
+			"progress",
+			"color: re",
+			"hints",
+			"even",
+			"var",
+			"name",
+			"operand",
+			"operator",
+			"canvas-li",
+			"next-sec",
+			"disabl",
+			"syntax",
+			"}",
+			"context",
+			"den här öv",
+			"hints-tab",
+			"numberofh",
+			"numberof",
+			"numberofhi",
+			"hint-butt",
+			"requirements-table",
+			"get-hin",
+			"contents",
+			"footer",
+			"postmess",
+			"editor",
+			"disabled",
+			"getlatest",
+			"setprogress",
+			"numberofex",
+			"maxse",
+			"usercon",
+			"\n	",
+			"currentsec",
+			"setpro",
+			"button",
+			"maxs",
+			"maxUserSectionID",
+			"save",
+			"progressp",
+			"progressper",
+			"green",
+			"print",
+			"/",
+			"past",
+			"numberofcomp",
+			"outer.currents",
+			"sprintf",
+			"maxsec",
+			"before",
+			"maxs",
+			"max",
+			">",
+			"sprintf",
+			"future-ex",
+			"red",
+			"issec",
+			"sprintf",
+			"hasuser",
+			"/",
+			"createuserscomple",
+			"userscomp",
+			"userComple",
+			"currentPointsWorth",
+			"requirementcell",
+			"exercise",
+			"fade",
+			" #FFF3E4",
+			"header",
+			"tabs",
+			"tab",
+			"getexer",
+			"green",
+			"flash",
+			"ed",
+			"memo",
+			"fadein",
+			"code-out",
+			"nextSection",
+			"#code-output",
+			"disabled",
+			"progressbarchu",
+			"sprintf",
+			"setlesson",
+			"section-con",
+			"getexer",
+			"50",
+			"#section-con",
+			"contents",
+			"nooutput",
+			"footer",
+			"lesson_id",
+			"completede",
+			"completedex",
+			"exercisejson",
+			"lesson-na",
+			"lesson-n",
+			"lessonID",
+			"editor",
+			"section-con",
+			"#section-co",
+			"progress-box",
+			"progress-",
+			"chunksiz",
+			"exercisejson",
+			"section-con",
+			"section-",
+			"section-c",
+			"section-co",
+			"section-con",
+			"home",
+			"grade-co",
+			"box",
+			"grade",
+			"td",
+			"before",
+			"grade",
+			"full",
+			"color",
+			"grade",
+			"button",
+			"header",
+			"editor",
+			"after",
+			"25px",
+			"active"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"contentsHTML",
+			"currentExerciseWorth",
+			"#run-output",
+			"nav",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/scripts/kodknackaren/usercontroller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2429,
+								2429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/database/migrations/2014_03_13_145725_create-users-lessons-status-table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/database/migrations/2014_03_18_192152_create_exercise_requirements_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/scripts/kodknackaren/exercisecontroller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5475,
+								5475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/main.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1062,
+								1062
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1265,
+								1265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/database/seeds/ExerciseTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2696,
+								2696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/models/ExerciseRequirement.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/database/migrations/2014_03_03_203951_create_sections_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/database/seeds/ExerciseHintsTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3653,
+								3653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/database/migrations/2014_03_05_125152_create-hints-table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "public/scripts/kodknackaren/coderunnercontroller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3668,
+								3668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/controllers/ExerciseController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/controllers/CourseController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/controllers/LarController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								611,
+								611
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app/controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1946,
+								1946
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "app/database/migrations/2014_03_13_123256_create-users-table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/models/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "app/models/Lesson.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "app/controllers/SectionController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "app/models/Exercise.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "app/models/Hint.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "app/models/Section.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "app/views/lar.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2405,
+								2405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "public/scripts/kodknackaren/editorcontroller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "app/database/seeds/SectionTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44836,
+								44836
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "public/css/screen.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7424,
+								7424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 6458.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "public/css/bootstrap-robban.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "app/database/seeds/DatabaseSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1694,
+								1694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 503.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "app/database/seeds/ExerciseRequirementsTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16003,
+								16003
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "kodknackaren.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"section",
+				"public/scripts/kodknackaren/sectioncontroller.js"
+			],
+			[
+				"seeder",
+				"app/database/seeds/SectionTableSeeder.php"
+			],
+			[
+				"exerciseta",
+				"app/database/seeds/ExerciseTableSeeder.php"
+			],
+			[
+				"sectionsee",
+				"app/database/seeds/SectionTableSeeder.php"
+			],
+			[
+				"screen",
+				"public/css/screen.css"
+			],
+			[
+				"course",
+				"app/controllers/CourseController.php"
+			],
+			[
+				"lar",
+				"app/views/lar.blade.php"
+			],
+			[
+				"sectionc",
+				"public/scripts/kodknackaren/sectioncontroller.js"
+			],
+			[
+				"",
+				"app/database/seeds/SectionTableSeeder.php"
+			],
+			[
+				"hitstable",
+				"app/database/seeds/ExerciseHintsTableSeeder.php"
+			],
+			[
+				"scree",
+				"public/css/screen.css"
+			],
+			[
+				"exercises",
+				"app/database/seeds/ExerciseTableSeeder.php"
+			],
+			[
+				"hints",
+				"app/database/seeds/ExerciseHintsTableSeeder.php"
+			],
+			[
+				"hintsta",
+				"app/database/seeds/ExerciseHintsTableSeeder.php"
+			],
+			[
+				"exercisere",
+				"app/models/ExerciseRequirement.php"
+			],
+			[
+				"requiementse",
+				"app/database/seeds/ExerciseRequirementsTableSeeder.php"
+			],
+			[
+				"exer",
+				"app/database/seeds/ExerciseTableSeeder.php"
+			],
+			[
+				"coder",
+				"public/scripts/kodknackaren/coderunnercontroller.js"
+			],
+			[
+				"sectionta",
+				"app/database/seeds/SectionTableSeeder.php"
+			],
+			[
+				"databa",
+				"app/database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"sec",
+				"public/scripts/kodknackaren/sectioncontroller.js"
+			],
+			[
+				"main",
+				"app/views/main.blade.php"
+			],
+			[
+				"sect",
+				"public/scripts/kodknackaren/sectioncontroller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
